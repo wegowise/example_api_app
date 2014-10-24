@@ -8,6 +8,7 @@ gem 'rails', '4.1.6', require: false
 gem 'sass-rails'
 gem 'uglifier'
 gem 'unicorn'
+gem 'oauth'
 
 group :development, :test do
   gem 'better_errors'
